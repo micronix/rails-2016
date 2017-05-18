@@ -1,7 +1,7 @@
 
-[Class Video](https://www.youtube.com/watch?v=3zbU7fxUXss)
+[Class Video](https://www.youtube.com/watch?v=GwmcW2yV8HM)
 
-[Feedback](https://goo.gl/forms/5m2bCcNQlfQnRckf1)
+[Feedback](https://goo.gl/forms/Ix3tIg1f7UKbKM8C2)
 
 ### Rails Tutorial Chapter 1
 
